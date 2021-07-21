@@ -1,5 +1,5 @@
 {
-  "name": "elvishp2006/carbon-field-rest-api-select",
+  "name": "misfist/carbon-field-rest-api-select",
   "description": "Carbon Fields extension, that adds a rest_api_select field type.",
   "keywords": [
     "wordpress",
@@ -10,7 +10,7 @@
   "license": "GPL-2.0+",
   "authors": [],
   "require": {
-    "htmlburger/carbon-fields": "2.2.0"
+    "htmlburger/carbon-fields": "^2.2.0"
   },
   "require-dev": {
     "dealerdirect/phpcodesniffer-composer-installer": "0.6.2",
